@@ -22,7 +22,7 @@ Jupyter notebook for project: [LINK](https://github.com/MMBazel/Predicting-Kicks
 
 Final write up: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Capstone%202_%20Final%20Summary.pdf) 
 
-Slides presentation:[LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/tree/master/Detailed%20Milestone%20Reports) 
+Slides presentation: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/tree/master/Detailed%20Milestone%20Reports) 
 
 Regards,
 Mikiko
