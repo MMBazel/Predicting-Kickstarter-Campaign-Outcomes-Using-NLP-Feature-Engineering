@@ -30,3 +30,38 @@ Mikiko
 
 ![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide1.JPG?raw=true
       )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide2.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide3.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide4.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide5.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide6.JPG?raw=true
+      )
+      
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide7.JPG?raw=true
+      )
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide8.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide9.JPG?raw=true
+      )
+
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide10.JPG?raw=true
+      )
+![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide11.JPG?raw=true
+      )
+      ![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide12.JPG?raw=true
+      )
+      ![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide13.JPG?raw=true
+      )
+      ![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide14.JPG?raw=true
+      )
+
