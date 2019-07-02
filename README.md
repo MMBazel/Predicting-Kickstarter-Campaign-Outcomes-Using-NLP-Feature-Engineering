@@ -4,7 +4,7 @@
 
 
 
-# Project: Classifying Kickstarter Campaigns Utilizing NLP Feature Engineering Techniques
+# Classifying Kickstarter Campaigns Utilizing NLP Feature Engineering Techniques
 
 Hi!
 
