@@ -18,6 +18,10 @@ For questions or comments, please feel free to reach out on [LinkedIn](https://w
 
 To find out more about this project, read on below! I've included my slides below. 
 
+Jupyter notebook for project: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Model%2BAnalysis/Capstone%202%20-%20Kickstarter%20-%20Final%20Submission.ipynb)   
+Final write up: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Capstone%202_%20Final%20Summary.pdf) 
+Slides presentation:[LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/tree/master/Detailed%20Milestone%20Reports) 
+
 Regards,
 Mikiko
 
