@@ -73,11 +73,4 @@ Mikiko
 --------------------------------------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide12.JPG?raw=true
       )
---------------------------------------------------------------------------------------------------------------------------------     
-![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide13.JPG?raw=true
-      )
-      
---------------------------------------------------------------------------------------------------------------------------------      
-![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide14.JPG?raw=true
-      )
 
