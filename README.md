@@ -15,7 +15,7 @@ From Oct 2018 to April 2019 I completed a number of projects, including this, as
 For this project I incorporated NLP feature engineering techniques (Bag-of-Words, N-Grams and TFID-vectorizer) & SpaCy package to use both quantitative & text data to predict outcomes of Kickstarter campaigns.
 
 
-To find out more about this project, read on below! I've included my slides below. 
+To find out more about this project, check out the attached presentation below! 
 
 Jupyter notebook for project: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Model%2BAnalysis/Capstone%202%20-%20Kickstarter%20-%20Final%20Submission.ipynb)  
 
