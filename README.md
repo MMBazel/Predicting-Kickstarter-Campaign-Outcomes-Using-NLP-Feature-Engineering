@@ -12,9 +12,8 @@ My name is Mikiko Bazeley and this is my repo for the .
 
 From Oct 2018 to April 2019 I completed a number of projects, including this, as part of the Springboard Data Science Track. 
 
-All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
+For this project I incorporated NLP feature engineering techniques (Bag-of-Words, N-Grams and TFID-vectorizer) & SpaCy package to use both quantitative & text data to predict outcomes of Kickstarter campaigns.
 
-For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
 To find out more about this project, read on below! I've included my slides below. 
 
@@ -23,6 +22,11 @@ Jupyter notebook for project: [LINK](https://github.com/MMBazel/Predicting-Kicks
 Final write up: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Capstone%202_%20Final%20Summary.pdf) 
 
 Slides presentation: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/tree/master/Detailed%20Milestone%20Reports) 
+
+
+For more information about my Springboard work: All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
+
+For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
 Regards,
 Mikiko
