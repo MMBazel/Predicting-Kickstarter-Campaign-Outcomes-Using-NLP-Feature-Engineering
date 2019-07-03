@@ -8,7 +8,7 @@
 
 Hi!
 
-My name is Mikiko Bazeley and this is my repo for the . 
+My name is Mikiko Bazeley and this is my repo for my second capatone project: Classifying Kickstarter Campaigns Utilizing NLP Feature Engineering Techniques. 
 
 From Oct 2018 to April 2019 I completed a number of projects, including this, as part of the Springboard Data Science Track. 
 
