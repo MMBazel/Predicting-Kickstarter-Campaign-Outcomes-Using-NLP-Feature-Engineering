@@ -28,6 +28,7 @@ For more information about my Springboard work: All of the documentation, code, 
 
 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
+If you find my repo useful, let me know OR ☕ consider buying me a coffee! https://www.buymeacoffee.com/mmbazel ☕.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
